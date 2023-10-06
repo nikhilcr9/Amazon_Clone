@@ -1,2 +1,2 @@
 # Amazon_Clone
-Amazon clone using &lt;> &amp; #
+Amazon_clone using &lt;> &amp; #
